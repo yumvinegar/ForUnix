@@ -1,4 +1,2 @@
-a 
-few
-lines of 
-text
+changing the
+file
